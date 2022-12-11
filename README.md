@@ -10,6 +10,12 @@ This book is not designed to be read in order, but can be skipped to the section
  
 In a typical Mr Raymond fashion, I remind you to use a pencil for maths, just as my former teacher, who was 50-times older than me, flamboyantly told my year 8 class to use one.
 
-## How to use
+## How to access
 
 To access this code, I recommend either using Google Colab or VScode
+
+1. Head to [Google Colab](https://colab.research.google.com/)
+2. Select GitHub tab
+3. Search up Raymond-0074
+4. Select Raymond-0074/Mathemagician under repository
+5. Double click on the chapter you want to open
