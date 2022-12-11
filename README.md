@@ -19,3 +19,7 @@ To access this code, I recommend either using Google Colab or VScode
 3. Search up Raymond-0074
 4. Select Raymond-0074/Mathemagician under repository
 5. Double click on the chapter you want to open
+
+## Additional resources
+
+[Nerdy Memes](https://www.instagram.com/scs_botem/)
